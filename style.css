@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: MediumSpringGreen;
+}
+
+header p{
+    color: brown;
+}
+
+header a{
+    border-radius: 17px;
+    text-decoration: chocolate;
+}
+
+h1{
+    font-family: i;
+    color: coral;
+}
+
+footer{
+    border:solid 11px Teal	;
+}
+
+nav{
+  border: solid 2px Silver;
+  text-align: centre;
+  margin: 5px;
+}
+
+nav a{
+    padding: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: silver;
+}
+
+.nop{
+    color: Fuchsia;
+    font-size: 35px;
+}
+
+.logo{
+    padding: 10px;
+}
+
+table {
+    background-color:lightblue;
+    font-size: 20px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid brown;
+}
